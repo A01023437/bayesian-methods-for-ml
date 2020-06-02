@@ -1,4 +1,4 @@
-#bayesian-methods-for-ml
+# bayesian-methods-for-ml
 My solutions in this course.
 
 * w2: expectation-maximization algorithm. Implementation of E-step and M-step in a Gaussian Mixture Model (GMM)
